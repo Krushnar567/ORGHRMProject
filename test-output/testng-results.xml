@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-22T14:20:36 IST" name="Default suite" finished-at="2023-02-22T14:20:52 IST" duration-ms="15905">
+    <groups>
+    </groups>
+    <test started-at="2023-02-22T14:20:36 IST" name="Default test" finished-at="2023-02-22T14:20:52 IST" duration-ms="15905">
+      <class name="SeleniumProject.OrgHRMProject.IMGTest">
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:SeleniumProject.OrgHRMProject.IMGTest@67f639d3]" started-at="2023-02-22T14:20:36 IST" name="launchURL" finished-at="2023-02-22T14:20:48 IST" duration-ms="12056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="imgTest()[pri:0, instance:SeleniumProject.OrgHRMProject.IMGTest@67f639d3]" started-at="2023-02-22T14:20:48 IST" name="imgTest" finished-at="2023-02-22T14:20:52 IST" duration-ms="3426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imgTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:SeleniumProject.OrgHRMProject.IMGTest@67f639d3]" started-at="2023-02-22T14:20:52 IST" name="afterClass" finished-at="2023-02-22T14:20:52 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- SeleniumProject.OrgHRMProject.IMGTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
